@@ -213,7 +213,7 @@
         {
           "id": "3036dcd5-4154-4935-b7b8-c935505842f3",
           "tagFile": "bag-info.txt",
-          "tagName": "Internal-Sender-Description / AU Title",
+          "tagName": "Internal-Sender-Description",
           "required": true,
           "values": [],
           "defaultValue": null,
@@ -297,7 +297,7 @@
         {
           "id": "311b02fc-37e7-451b-9940-607878fb3700",
           "tagFile": "bag-info.txt",
-          "tagName": "Bag-Producing-Organization / MDPN Publisher",
+          "tagName": "Bag-Producing-Organization",
           "required": true,
           "values": [],
           "defaultValue": null,
